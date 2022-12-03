@@ -1,1 +1,25 @@
-nothing 
+• Base UpdateInstagram to 261.0.0.21.111
+
+• Added All the new Instagram features
+
+• Added An option to change the shape of the stories in the circular and square shape of the additions, then reinforcement, then open the stories in full screen mode
+
+• Added Story size increase feature
+
+• Re-Added The feature of changing fonts and adding iPhone fonts
+
+• Re-Added Choose your favorite launcher icon
+
+• Enable Note
+
+• Fixed Scrolling crash
+
+• Fixed The problem of stories appearing in square shape
+
+• Fixed the problem of crashing when opening the application
+
+• Fixed Download Reels button
+
+• Misc Several random crashes and crashes
+
+• Misc Improved Translations 
