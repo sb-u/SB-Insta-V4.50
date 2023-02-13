@@ -1,25 +1,39 @@
-• Base UpdateInstagram to 261.0.0.21.111
+Version 4.60 Changelog:
 
-• Added All the new Instagram features
+BaseUpdate268.0.0.18.72
 
-• Added An option to change the shape of the stories in the circular and square shape of the additions, then reinforcement, then open the stories in full screen mode
+Added All the new Instagram features
 
-• Added Story size increase feature
+Added Video submission feature
 
-• Re-Added The feature of changing fonts and adding iPhone fonts
+Added some new icons
 
-• Re-Added Choose your favorite launcher icon
+FixedThe problem of collapsing in conversations
 
-• Enable Note
+FixedAll crashing issues
 
-• Fixed Scrolling crash
+FixedFixes and improvements, discover it yourself
 
-• Fixed The problem of stories appearing in square shape
 
-• Fixed the problem of crashing when opening the application
 
-• Fixed Download Reels button
 
-• Misc Several random crashes and crashes
 
-• Misc Improved Translations 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
