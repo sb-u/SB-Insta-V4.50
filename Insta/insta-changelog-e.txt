@@ -2,7 +2,7 @@ Version 4.60 Changelog:
 
 BaseUpdate268.0.0.18.72
 
-⚠️Changed Package name(must unistall previus version)
+
 
 Added All the new Instagram features
 
